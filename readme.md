@@ -9,6 +9,4 @@ The most common way to add CSS, is to keep the styles in external CSS files. How
 Inline CSS
 An inline CSS is used to apply a unique style to a single HTML element.
 
-An inline CSS uses the style attribute of an HTML element.
-
-The following example sets the text color of the <h1> element to blue, and the text color of the <p> element to red:
+An inline CSS uses the style attribute of an HTML element
